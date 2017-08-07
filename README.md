@@ -11,4 +11,6 @@ This toy proj needs Tensorflow and Cozmo SDK provided by Anki [source codes](htt
 3. Using drive_by_cnn.py in DriveTool dir to run Cozmo
 
 ### Result Video in Youtube
-https://www.youtube.com/watch?v=klVTxu8CQI4
+1. Since I had trained the model in this simple toy track which is drawn by chalk, so the result is displayed at the same place.
+2. After capturing 5034 pics and training the version 1 model, I get 60% accuracy at last.  
+3. [Result Video](https://www.youtube.com/watch?v=klVTxu8CQI4)
